@@ -1,3 +1,3 @@
 import randon
 
-print('hello')
+print('aaa')
